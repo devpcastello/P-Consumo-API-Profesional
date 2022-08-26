@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-rest",
+  "version": "1.0.0",
+  "description": "Curso práctico de Consumo de API rest",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octenrique/Platzi_Consumo-Pr-ctico-APIS.git"
+  },
+  "author": "Octavio Palomino <octepc.97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octenrique/Platzi_Consumo-Pr-ctico-APIS/issues"
+  },
+  "homepage": "https://github.com/octenrique/Platzi_Consumo-Pr-ctico-APIS#readme"
+}
